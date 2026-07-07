@@ -3,7 +3,7 @@
 
 > **Author:** Sreekanth 
 
-> **Research Project**  Cybersecurity + Adversarial Machine Learning
+> **Research Project:**  Cybersecurity + Adversarial Machine Learning
 
 > **Dataset:** NSL-KDD 
 
