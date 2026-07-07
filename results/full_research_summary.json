@@ -1,0 +1,12 @@
+{
+  "model": "Random Forest",
+  "dataset": "NSL-KDD",
+  "attack": "FGSM",
+  "baseline_acc": 77.31,
+  "post_attack_acc": 77.0,
+  "auc_before": 0.9729,
+  "auc_after": 0.9728,
+  "auc_degradation": 0.0001,
+  "evasion_rate": 100.0,
+  "confidence_drop": 0.6667
+}

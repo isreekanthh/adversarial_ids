@@ -1,0 +1,26 @@
+{
+  "defense_methods": [
+    "Feature Squeezing",
+    "Adversarial Training"
+  ],
+  "feature_squeezing": {
+    "bit_depth": 4,
+    "attacks_detected_before": 0,
+    "attacks_detected_after": 0,
+    "recovery_rate": 0.0
+  },
+  "adversarial_training": {
+    "training_size_original": 125973,
+    "training_size_augmented": 251946,
+    "clean_acc_original": 77.31,
+    "clean_acc_robust": 76.59,
+    "adv_acc_original": 0.0,
+    "adv_acc_robust": 62.0
+  },
+  "roc": {
+    "auc_original_clean": 0.9729,
+    "auc_robust_clean": 0.965,
+    "auc_original_attack": 0.9728,
+    "auc_robust_attack": 0.965
+  }
+}
