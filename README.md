@@ -1,13 +1,13 @@
 # Adversarial Attacks on ML-Based Intrusion Detection Systems
 
 
-> **Author:** Sreekanth | Cybersecurity Researcher |
-> 
-> **Research Project** | Cybersecurity + Adversarial Machine Learning
+> **Author:** Sreekanth
+ 
+> **Research Project:**  Cybersecurity + Adversarial Machine Learning
 
-> **Dataset:** NSL-KDD |
+> **Dataset:** NSL-KDD 
 
->**Attack:** FGSM |
+>**Attack:** FGSM 
 
 >**Defense:** Adversarial Training
 
