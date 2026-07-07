@@ -1,11 +1,15 @@
 # Adversarial Attacks on ML-Based Intrusion Detection Systems
 
 
-> **Author:** Sreekanth | Cybersecurity Researcher
-> **Background:** BCA Cybersecurity | EC-Council CSA Certified
-> **Focus:** AI-Driven Cybersecurity | Adversarial Machine Learning
-> **Research Project** | Cybersecurity + Adversarial Machine Learning
-> **Dataset:** NSL-KDD | **Attack:** FGSM | **Defense:** Adversarial Training
+> **Author:** Sreekanth 
+
+> **Research Project**  Cybersecurity + Adversarial Machine Learning
+
+> **Dataset:** NSL-KDD 
+
+>  **Attack:** FGSM 
+
+>  **Defense:** Adversarial Training
 
 ---
 
